@@ -28,21 +28,21 @@ A simple, text-based AI chatbot built with React, Tailwind CSS, and the Google G
 1.  **Clone the repository:**
 
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_PROJECT_DIRECTORY]
+    git clone [https://github.com/AshokBin/AI-Chatbot.git]
+    cd [frontend and backend]
     ```
 
 2.  **Install frontend dependencies:**
 
     ```bash
-    cd client
+    cd frontend
     npm install
     ```
 
 3.  **Install backend dependencies:**
 
     ```bash
-    cd server
+    cd backend
     npm install
     ```
 
@@ -61,14 +61,14 @@ A simple, text-based AI chatbot built with React, Tailwind CSS, and the Google G
     - **Start the backend server:**
 
       ```bash
-      cd server
+      cd backend
       npm start
       ```
 
     - **Start the frontend development server:**
 
       ```bash
-      cd client
+      cd frontend
       npm run dev
       ```
 
@@ -77,11 +77,3 @@ A simple, text-based AI chatbot built with React, Tailwind CSS, and the Google G
 ## Usage
 
 Simply type your question into the input field and press Enter or click the "Send" button. The chatbot will then generate a response based on your query.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for any bugs or feature requests.
-
-## License
-
-[Choose a License, e.g., MIT License] - See the `LICENSE` file for details.
